@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://knockoutpestcontrol.uk/sitemap.xml
+Sitemap: https://oakridgepestcontrol.uk/sitemap.xml
